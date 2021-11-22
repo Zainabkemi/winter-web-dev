@@ -1,0 +1,19 @@
+html{
+    font-family: 'Lobster Two', cursive;
+    font-size:2em; 
+    background-color: bisque;  
+    color:black; 
+}
+h1, h2, h3 {
+    text-decoration: underline; 
+    color:rgb(8, 11, 185)
+} 
+#heading{ 
+    color:green; 
+    font-size: 50px;
+}
+.grey {
+    color:rgb(49, 48, 48); 
+    background-color:rgb(21, 132, 223);
+}
+.underline{text-decoration: underline;}
